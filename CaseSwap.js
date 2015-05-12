@@ -1,3 +1,5 @@
+//prework challenge #5
+
 function testString(str){
 
     str = str.split('');
